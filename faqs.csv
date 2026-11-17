@@ -1,0 +1,28 @@
+category,question,answer
+Study Skills,How can I prepare for exams?,"Break the syllabus into small topics, study actively, solve practice questions, and review mistakes. Start with the topics you find hardest."
+Study Skills,How do I make a study timetable?,"List your subjects and deadlines, divide work into realistic blocks, add short breaks, and leave time for revision. Keep the plan flexible."
+Study Skills,How can I avoid procrastination?,"Choose one small task, set a short focus session, put distractions away, and take a short break when the session ends."
+Study Skills,What is active recall?,"Active recall means trying to remember information without looking at your notes. Use flashcards, self-testing, or explain a topic from memory."
+Study Skills,How should I take lecture notes?,"Write key ideas in your own words, record examples, mark questions, and review the notes soon after class."
+AI and Machine Learning,What is artificial intelligence?,"Artificial intelligence is a field of computing that builds systems able to perform tasks that usually require human-like intelligence, such as recognizing patterns or understanding language."
+AI and Machine Learning,What is machine learning?,Machine learning is a part of AI in which a computer learns patterns from data and uses those patterns to make predictions or decisions.
+AI and Machine Learning,What is supervised learning?,"Supervised learning trains a model using examples that include both input data and the correct target answer, such as labeled emails."
+AI and Machine Learning,What is unsupervised learning?,Unsupervised learning looks for patterns in data without supplied target labels. Clustering is a common example.
+AI and Machine Learning,What is classification?,"Classification predicts a category or class, such as spam versus not spam or one flower species versus another."
+AI and Machine Learning,What is regression?,"Regression predicts a numerical value, such as a house price or temperature."
+AI and Machine Learning,What is overfitting?,"Overfitting happens when a model learns the training examples too closely, including noise, and performs poorly on new unseen data."
+AI and Machine Learning,Why do we split data into training and testing sets?,The training set is used to fit the model. The test set gives an estimate of how well the trained model works on unseen examples.
+AI and Machine Learning,What is natural language processing?,"Natural language processing, or NLP, is an AI area focused on working with human language, such as text classification, translation, and chatbots."
+Programming,How can I improve my Python skills?,"Practice small programs, read error messages carefully, use functions, and build projects that solve simple problems."
+Programming,What is a Python function?,A function is a reusable block of code that performs a task. It can accept inputs called parameters and may return a result.
+Programming,What is a Python list?,"A list is an ordered, changeable collection that can store multiple values in one variable."
+Programming,What is a dictionary in Python?,"A dictionary stores information as key-value pairs, making it useful for looking up a value using its key."
+Projects and GitHub,What should I include in a project README?,"Include the project title, purpose, features, tools used, installation steps, run instructions, folder structure, and possible future improvements."
+Projects and GitHub,How do I choose a portfolio project?,"Choose a project that demonstrates a skill, has a clear purpose, can be completed, and includes a README explaining your decisions."
+Projects and GitHub,What is GitHub used for?,"GitHub hosts Git repositories online. It helps developers store code, track changes, collaborate, and show projects in a portfolio."
+Projects and GitHub,What is a requirements file?,A requirements.txt file lists Python packages a project needs so another person can install them using pip.
+Campus Life,How can I manage university and personal tasks?,"Keep one task list, identify the most important tasks, estimate how long they take, and review your plan each day."
+Campus Life,How can I prepare for a presentation?,"Organize your main points, use readable slides, practice aloud, check your timing, and prepare for likely questions."
+Career,How can I make my student portfolio stronger?,"Show a few complete projects, explain the problem and your approach, include clear READMEs, and describe what you learned."
+AI and Machine Learning,What is deep learning?,Deep learning is a type of machine learning that uses neural networks with multiple layers to learn complex patterns from data.
+AI and Machine Learning,What is deep learning?,"Deep learning is a type of machine learning that uses neural networks with multiple layers to learn complex patterns from data."
